@@ -29,7 +29,8 @@ python simulacion_de_redes.py
 
 
 
-#Simulación de Red con conexión y desconexión dinámica
+
+# Simulación de Red con conexión y desconexión dinámica
 ## Descripción
 
 Simulación de una red en Python con 1 servidor y 3 clientes, incluyendo desconexión y reconexión dinámica.
