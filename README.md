@@ -63,6 +63,6 @@ Se reconecta el cliente.
 
 Luego todos reciben el mensaje.
 
-##Ejecutar
+## Ejecutar
 
 python simulacion_de_red_con_desconexcion_dinamica.py
